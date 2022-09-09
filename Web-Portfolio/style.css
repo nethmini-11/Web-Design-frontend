@@ -144,7 +144,7 @@ span.name {
 
 
 /* Those Elements Where We Have Apply Same CSS,
- I'm Selecting Directly 'Section Tag' and 'Class'  */
+ 'Section Tag' and 'Class'  */
 section{
   padding-top: 40px;
 }
@@ -273,7 +273,7 @@ section  .topic{
 
 /* Footer CSS */
 footer{
-  background: #000000;
+  background: #d7dcdf;
   padding: 15px 0;
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -281,7 +281,7 @@ footer{
 footer .text span{
   font-size: 17px;
   font-weight: 400;
-  color: #F5044F;
+  color: #000000;
 }
 footer .text span a{
   font-weight: 500;
